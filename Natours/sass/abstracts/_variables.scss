@@ -1,0 +1,32 @@
+// Colors
+$clr-primary: #55c57a;
+$clr-primary-light: #7ed56f;
+$clr-primary-dark: #28b44b;
+
+$clr-2ary-light: #ffb900;
+$clr-2ary-dark: #ff7730;
+
+$clr-tertiary-light: #2998ff;
+$clr-tertiary-dark: #5643fa;
+
+$clr-grey-light-1: #f7f7f7;
+$clr-grey: #777;
+$clr-black: #000;
+
+//shadow
+$shadow1: rgba($clr-black, 0.4);
+$shadow2: rgba($clr-black, .15);
+$shadow3: rgba($clr-black, .25);
+
+// font
+$default-fz: 1.6rem;
+
+// border-radius
+$rad: 3px;
+
+// Grid
+$grid-width: 114rem;
+$gridgap-y: 8rem;
+$gridgap-y-small: 6rem;
+$gridgap-x: 6rem;
+$gridgap-x-small: 4rem;
